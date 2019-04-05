@@ -65,7 +65,7 @@ namespace Extents
 
     public class Extent
     {
-        public Extent(bool flag, int a, int b, int c)
+        public Extent(bool flag, long a, long b, long c)
         {
         }
     }
